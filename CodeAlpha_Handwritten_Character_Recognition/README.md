@@ -46,8 +46,15 @@ The trained model is saved for reuse.
 - TensorFlow / Keras  
 - NumPy  
 - Matplotlib  
-- Google Colab / Jupyter Notebook  
+- Google Colab / Jupyter Notebook
 
+  ## 📥 Clone the Repository
+
+To get started, first clone the repository:
+
+```bash
+git clone https://github.com/ravikiranediga/CodeAlpha_Tasks.git
+cd CodeAlpha_Tasks/CodeAlpha_Handwritten_Character_Recognition
 
 
 ## 🚀 How to Run the Project
