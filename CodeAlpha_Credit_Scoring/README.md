@@ -41,7 +41,11 @@ To classify applicants into:
 - Scikit-learn
 - Jupyter Notebook
 
----
+## Clone
+To clone this repository, use the following command:
+
+```bash
+git clone https://github.com/ravikiranediga/CodeAlpha_Tasks.git
 
 ## ▶️ How to Run
 ```bash
