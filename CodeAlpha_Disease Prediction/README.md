@@ -38,8 +38,16 @@ To build a Machine Learning model that can accurately classify patients as:
 - Scikit-learn
 - Jupyter Notebook
 
----
+## 📥 Clone the Repository
 
+To get started, first clone the repository:
+
+```bash
+git clone https://github.com/ravikiranediga/CodeAlpha_Tasks.git
+cd CodeAlpha_Tasks/CodeAlpha_Disease\ Prediction
+
+
+  
 ## ▶️ How to Run
 ```bash
 pip install -r requirements.txt
